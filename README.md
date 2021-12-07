@@ -11,3 +11,7 @@ Link for bot: https://discord.com/api/oauth2/authorize?client_id=917665825547227
 
 
 Link for my Server: https://discord.gg/9dBWuZdfpH
+
+
+use /help on the DurrMod bot for commands
+
