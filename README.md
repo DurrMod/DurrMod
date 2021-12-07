@@ -7,7 +7,7 @@ This is a Discord Moderation Bot I made by myself its Called DurrMod and if the 
 
 
 
-Link for bot: https://discord.com/api/oauth2/authorize?client_id=917665825547227206&permissions=8&scope=bot
+Link for bot: https://discord.com/oauth2/authorize?client_id=917665825547227206&scope=applications.commands%20bot&permissions=8
 
 
 Link for my Server: https://discord.gg/9dBWuZdfpH
