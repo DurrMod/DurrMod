@@ -18,9 +18,12 @@ https://discord.com/oauth2/authorize?client_id=917665825547227206&scope=applicat
 
 Welcome To "The Shawties"
 1). ⭐ We Have friendly staff who are always here and happy to help you out⭐ 
+
 2). 🎉 We have plenty of stuff to do around here (ex. Giveaways, question of the day, polls, ect.)🎉 
+
 3). 🗺️ We have a fun voice and non voice channels where we assure you wont get bored on with the many fun people on our server🗺️ 
-3). ✅ We have set rules that we notice, but good thing you get five chances✅ 
+
+4). ✅ We have set rules that we notice, but good thing you get five chances✅ 
 
 Join our great talking community server at:
   https://discord.gg/9dBWuZdfpH
